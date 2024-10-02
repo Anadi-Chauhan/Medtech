@@ -1,0 +1,7 @@
+{
+    "$schema": "https://json.schemastore.org/nodemon.json",
+    "ext": "js",
+    "exec": "node server.js",
+    "stdin": false
+  }
+  
